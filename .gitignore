@@ -6,3 +6,6 @@ tsconfig.tsbuildinfo
 /playwright-report/
 /playwright/.cache/
 out
+
+# environment file
+.env
